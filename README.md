@@ -6,7 +6,7 @@ This is a beginners repository for anyone wishing to contribute to HacktoberFest
   - Clone your fork and Create a new branch
   - Add your program
   - Generate your Pull Request
-  - Magic
+  - Magic (give star to this repo if you like)
 
 ### Process
 < Added Unique program >  // please change this accordingly
