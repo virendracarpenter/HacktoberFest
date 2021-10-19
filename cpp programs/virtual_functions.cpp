@@ -14,7 +14,7 @@ public:
         title = s;
         rating = r;
     }
-     virtual void display()
+     virtual void display()   //Virtual function always declared using the virtual keyword
     {
         cout << "Bhupendra Choudhary " << endl;
     }
