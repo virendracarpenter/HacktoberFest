@@ -5,4 +5,4 @@ int main() {
     printf("Hello, %s \n", hello);
     
 }
-
+//Basic program of c
