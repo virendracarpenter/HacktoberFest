@@ -30,5 +30,10 @@ int main()
    // cout<<bhu.data1<<endl;
     //bhu.display();
     func(10);
+
+    cout<<" Beginner in opensource, thank u ";
+
     return 0;
 }
+
+
