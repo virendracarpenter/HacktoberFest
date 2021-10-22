@@ -4,23 +4,32 @@ using namespace std;
 struct student
 {
     char name[50];
+    char fatherName[50];
+    int standard;
     int roll;
     float marks;
+    
 };
 
 int main() 
 {
     student s;
     cout << "Enter information," << endl;
-    cout << "Enter name: ";
+    cout << "Enter Name: "<<endl;
     cin >> s.name;
-    cout << "Enter roll number: ";
+    cout << "Enter Father's Name: ";
+    cin >> s.fatherName;
+    cout << "Enter Class of the Student: ";
+    cin >> s.standard;
+    cout << "Enter Roll Number: "<<endl;
     cin >> s.roll;
-    cout << "Enter marks: ";
+    cout << "Enter Marks: "<<endl;
     cin >> s.marks;
 
     cout << "\nDisplaying Information," << endl;
     cout << "Name: " << s.name << endl;
+    cout << "Father's Name: " << s.fatherName << endl;
+    cout << "Class: " << s.standard << endl;
     cout << "Roll: " << s.roll << endl;
     cout << "Marks: " << s.marks << endl;
     return 0;
