@@ -1,6 +1,6 @@
 # HacktoberFest 2022 #hacktoberfest #HACKTOBERFEST2022
 
-This is a beginners repository for anyone wishing to contribute to HacktoberFest 2021
+This is a beginners repository for anyone wishing to contribute to HacktoberFest 2022
 
   - Fork the repository
   - Clone your fork and Create a new branch
