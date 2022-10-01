@@ -1,4 +1,4 @@
-# HacktoberFest 2022 #hacktoberfest
+# HacktoberFest 2022 #hacktoberfest #HACKTOBERFEST2022
 
 This is a beginners repository for anyone wishing to contribute to HacktoberFest 2021
 
