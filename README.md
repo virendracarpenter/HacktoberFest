@@ -30,7 +30,6 @@ Go and Generate Pull request from Github
 
 ### Amazing Contributors for this project:
 <a href="https://github.com/virendracarpenter/HacktoberFest/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=virendracarpenter/HacktoberFest" />
+  <img src="https://contrib.rocks/image?repo=virendracarpenter/HacktoberFest&columns=10" />
 </a>
-
 Made with [contributors-img](https://contributors-img.web.app).
